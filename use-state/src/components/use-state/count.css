@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.count-container{
+    width: 100%;
+    padding: 30px 0;
+    background: rgb(171, 241, 219);
+}
+.count-btn{
+    padding: 5px 13px;
+    margin: 10px 0;
+    background: rgb(43, 140, 244);
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+
+
+
